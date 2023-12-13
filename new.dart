@@ -64,22 +64,6 @@ class _IGNoteState extends State<IGNote> {
             )
           ],
         ),
-        actions: [
-          Icon(
-            Icons.more_horiz,
-            size: 24,
-          ),
-          SizedBox(
-            width: 20,
-          ),
-          Icon(
-            UniconsLine.edit,
-            size: 24,
-          ),
-          SizedBox(
-            width: 15,
-          ),
-        ],
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -133,7 +117,7 @@ class _IGNoteState extends State<IGNote> {
                                                 padding: EdgeInsets.all(4),
                                                 decoration: BoxDecoration(
                                                   borderRadius:
-                                                      BorderRadius.circular(14),
+                                                      BorderRadius.circular(19),
                                                   color: Colors.white,
                                                   boxShadow: [
                                                     BoxShadow(
@@ -217,12 +201,6 @@ class _IGNoteState extends State<IGNote> {
                       );
                     },
                   ),
-                ),
-                SizedBox(
-                  height: 5,
-                ),
-                SizedBox(
-                  height: 20,
                 ),
               ],
             ),
