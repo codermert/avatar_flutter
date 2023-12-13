@@ -188,9 +188,10 @@ class _IGNoteState extends State<IGNote> {
                                     SizedBox(width: 4),
                                     // Verification Badge
                                     if (isVerified)
-                                      Image.network(
-                                        "https://res.cloudinary.com/divijw2qz/image/upload/v1702460847/assets.png",
-                                        width: 15,
+                                      Icon(
+                                        Icons.verified,
+                                        color: Colors.blue,
+                                        size: 15,
                                       ),
                                   ],
                                 ),
