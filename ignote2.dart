@@ -105,10 +105,13 @@ class _IGNoteState extends State<IGNote> {
                                               BorderRadius.circular(50),
                                           gradient: LinearGradient(
                                             colors: [
-                                              Color(0xffFF7E5F),
-                                              Color(0xffD4A5A5),
-                                              Color(0xff5D5E6B),
-                                              Color(0xff6D73B5),
+                                              Color(0xffE57373),
+                                              Color(0xffFFD54F),
+                                              Color(0xff81C784),
+                                              Color(0xff64B5F6),
+                                              Color(0xff9575CD),
+                                              Color(0xffFF8A65),
+                                              Color(0xff4DB6AC),
                                             ],
                                             begin: Alignment.bottomLeft,
                                             end: Alignment.topRight,
