@@ -3,14 +3,35 @@
     "pp": "https://res.cloudinary.com/divijw2qz/image/upload/w_350,h_350,c_fill,r_max/368671480_308760414991426_550784901628041738_n.jpg.png",
     "username": "tokdemirsera",
     "fullname": "Sera Tokdemir",
-    "verified": "true",
+    "verified": true,
     "note": "16 Şubat"
   },
   {
     "pp": "https://res.cloudinary.com/divijw2qz/image/upload/w_350,h_350,c_fill,r_max/media.png",
     "username": "rojdademirer__",
     "fullname": "Rojda Demirer",
-    "verified": "true",
+    "verified": true,
     "note": "Zesting ✨"
+  },
+  {
+    "pp": "https://res.cloudinary.com/divijw2qz/image/upload/w_350,h_350,c_fill,r_max/335974274_1594209797745032_6086469996268588037_n.jpg.png",
+    "username": "_nolamor",
+    "fullname": "NOLA",
+    "verified": false,
+    "note": "Слушать"
+  },
+  {
+    "pp": "https://res.cloudinary.com/divijw2qz/image/upload/w_350,h_350,c_fill,r_max/WhatsApp_Image_2023-11-30_at_18.37.20.png",
+    "username": "codermert",
+    "fullname": "Mert",
+    "verified": true,
+    "note": "la vida es corta"
+  },
+  {
+    "pp": "https://res.cloudinary.com/divijw2qz/image/upload/w_350,h_350,c_fill,r_max/401359743_6815278558560405_2341775430432862577_n.jpg.png",
+    "username": "guzelhasanova",
+    "fullname": "Гузель Гасанова",
+    "verified": false,
+    "note": "27 декабря"
   }
 ]
